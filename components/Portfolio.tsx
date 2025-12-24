@@ -7,41 +7,34 @@ const projects: Project[] = [
     id: 101,
     category: 'Commercial',
     roomType: 'Retail Space',
-    beforeImage: 'unnamed.jpg', 
-    afterImage: 'staged_store.jpg',
+    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/unnamed.jpg', 
+    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/staged_store.jpg',
     description: 'General clothing store'
   },
   {
     id: 1,
     category: 'Residential',
     roomType: 'Living Room',
-    beforeImage: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-20',
-    afterImage: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200&auto=format&fit=crop',
-    description: 'Modern Living Area'
+    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/image_luxury_before.jpg',
+    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/image_luxury_after.jpg',
+    description: 'Luxurious Living Room'
   },
   {
     id: 2,
     category: 'Residential',
     roomType: 'Bedroom',
-    beforeImage: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-15',
-    afterImage: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=1200&auto=format&fit=crop',
-    description: 'Master Suite'
+    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/bedroom1_before%20(1).png',
+    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/bedroom1_after%20(2).png',
+    description: 'Modern Bedroom'
   },
-  {
-    id: 3,
-    category: 'Residential',
-    roomType: 'Kitchen',
-    beforeImage: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-10',
-    afterImage: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1200&auto=format&fit=crop',
-    description: 'Open Concept Kitchen'
-  },
+
   {
     id: 4,
     category: 'Commercial',
-    roomType: 'Office',
-    beforeImage: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-20',
-    afterImage: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1200&auto=format&fit=crop',
-    description: 'Corporate Office Space'
+    roomType: 'Clinic',
+    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/medical_waiting_before.png',
+    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/medical_waiting_after.jpeg',
+    description: 'Medical Waiting Room'
   },
 ];
 
