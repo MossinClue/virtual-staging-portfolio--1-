@@ -15,25 +15,33 @@ const projects: Project[] = [
     id: 1,
     category: 'Residential',
     roomType: 'Living Room',
-    beforeImage: 'image_luxury_before.jpg',
-    afterImage: 'image_luxury_after.jpg',
-    description: 'Luxurious Living Room'
+    beforeImage: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-20',
+    afterImage: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200&auto=format&fit=crop',
+    description: 'Modern Living Area'
   },
   {
     id: 2,
     category: 'Residential',
     roomType: 'Bedroom',
-    beforeImage: 'bedroom1_before (1).png',
-    afterImage: 'bedroom1_after (2).png',
-    description: 'Modern Bedroom'
+    beforeImage: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-15',
+    afterImage: 'https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=1200&auto=format&fit=crop',
+    description: 'Master Suite'
+  },
+  {
+    id: 3,
+    category: 'Residential',
+    roomType: 'Kitchen',
+    beforeImage: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-10',
+    afterImage: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1200&auto=format&fit=crop',
+    description: 'Open Concept Kitchen'
   },
   {
     id: 4,
     category: 'Commercial',
-    roomType: 'Clinic',
-    beforeImage: 'medical_waiting_before.png',
-    afterImage: 'medical_waiting_after.jpeg',
-    description: 'Clinic Waiting Area'
+    roomType: 'Office',
+    beforeImage: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1200&auto=format&fit=crop&sat=-100&bri=-20',
+    afterImage: 'https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1200&auto=format&fit=crop',
+    description: 'Corporate Office Space'
   },
 ];
 
