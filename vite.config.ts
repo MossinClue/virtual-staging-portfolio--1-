@@ -10,7 +10,6 @@ export default defineConfig(({ mode }) => {
         host: '0.0.0.0',
       },
       plugins: [react()],
-      base: '/virtual-staging-portfolio--1-/',
       resolve: {
         alias: {
           '@': path.resolve(__dirname, '.'),
