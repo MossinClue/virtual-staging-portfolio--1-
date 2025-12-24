@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
         
         <div className="text-center md:text-left">
           <div className="flex items-center justify-center md:justify-start gap-2 mb-2">
-             <img src="/logo.png" alt="TAQ Staging" className="h-12 w-auto object-contain brightness-0 invert" />
+             <img src="https://694b8b2ccc4b2872a4f5c04d.imgix.net/logo.png" alt="TAQ Staging" className="h-12 w-auto object-contain brightness-0 invert" />
           </div>
           <p className="text-sm">Virtual staging for real estate listings.</p>
         </div>
