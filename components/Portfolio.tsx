@@ -7,24 +7,24 @@ const projects: Project[] = [
     id: 101,
     category: 'Commercial',
     roomType: 'Retail Space',
-    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/unnamed.jpg', 
-    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/staged_store.jpg',
+    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665535047532880/unnamed.png?ex=69764b93&is=6974fa13&hm=35d484eb58f0624d7a445ceffb567db75c1b42a2492f0308d9ee577d1538e09c&', 
+    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665652857016504/staged_store.jpg?ex=69764baf&is=6974fa2f&hm=8b8cc8dd2baaaa748f09ae46b76843da881be1b78ff0a49c0d09637ed06fca86&',
     description: 'General clothing store'
   },
   {
     id: 1,
     category: 'Residential',
     roomType: 'Living Room',
-    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/image_luxury_before.jpg',
-    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/image_luxury_after.jpg',
+    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665351689076767/image_luxury_before.jpg?ex=69764b68&is=6974f9e8&hm=376598ee97706f9277118f3b0156fff17c594274c7712870e582c7971595cdb2&',
+    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664874071359672/image_luxury_after.png?ex=69764af6&is=6974f976&hm=77ca81a937136b91c249665ba0982f86dc9357c3214141ed0875a6fce7717916&',
     description: 'Luxurious Living Room'
   },
   {
     id: 2,
     category: 'Residential',
     roomType: 'Bedroom',
-    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/bedroom1_before%20(1).png',
-    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/bedroom1_after%20(2).png',
+    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664012393414820/bedroom1_before_1.png?ex=69764a28&is=6974f8a8&hm=226551b6b9433a8ab2d0e9f108d9c8978f48c9a8a69b178d82c1518573dce903&',
+    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664060082786587/bedroom1_after.png?ex=69764a34&is=6974f8b4&hm=dfa7b31318cc1194b4b4cf71b2578297f5b61c3308eb95c7f24f04b5f5dd6c41&',
     description: 'Modern Bedroom'
   },
 

@@ -31,7 +31,7 @@ export const Navbar: React.FC = () => {
           <div className="flex-shrink-0">
             <a href="#" className="block">
               <img 
-                src="https://694b8b2ccc4b2872a4f5c04d.imgix.net/logo.png" 
+                src="https://cdn.discordapp.com/attachments/1464662012067053703/1464664747873145186/logo.png?ex=69764ad8&is=6974f958&hm=2650a202ee3851560ca3ec4397a68602a30e67a380469e5422136dca642e983b&" 
                 alt="Taq Staging" 
                 className="h-14 w-auto object-contain" 
               />
