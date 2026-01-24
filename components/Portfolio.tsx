@@ -32,8 +32,8 @@ const projects: Project[] = [
     id: 4,
     category: 'Commercial',
     roomType: 'Clinic',
-    beforeImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/medical_waiting_before.png',
-    afterImage: 'https://694b8b2ccc4b2872a4f5c04d.imgix.net/medical_waiting_after.jpeg',
+    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464662101506396253/medical_waiting_before.png?ex=69764861&is=6974f6e1&hm=8ec8166ff7bc9e879b4c5409c8941fe6f60b27c415f4eb48237fde465ff91777&',
+    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464662337087733803/medical_waiting_after.jpeg?ex=69764899&is=6974f719&hm=8a785f54cf36df96a833ac842f9969af1994a5cccede2bf4fde4bfdf15569a41&',
     description: 'Medical Waiting Room'
   },
 ];
