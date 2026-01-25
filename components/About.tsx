@@ -8,7 +8,7 @@ export const About: React.FC = () => {
           
           <div className="w-32 h-32 md:w-48 md:h-48 flex-shrink-0">
             <img 
-              src="https://images.iimg.live/images/wonderful-masterpiece-7678.webp" 
+              src="/ruwayd.png" 
               alt="Portrait of Syed" 
               className="w-full h-full object-cover rounded-full shadow-md border-4 border-[#FAFAF9]"
             />
