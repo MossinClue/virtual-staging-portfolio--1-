@@ -7,16 +7,16 @@ const projects: Project[] = [
     id: 101,
     category: 'Commercial',
     roomType: 'Retail Space',
-    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665535047532880/unnamed.png?ex=69764b93&is=6974fa13&hm=35d484eb58f0624d7a445ceffb567db75c1b42a2492f0308d9ee577d1538e09c&', 
-    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665652857016504/staged_store.jpg?ex=69764baf&is=6974fa2f&hm=8b8cc8dd2baaaa748f09ae46b76843da881be1b78ff0a49c0d09637ed06fca86&',
+    beforeImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/unnamed.png', 
+    afterImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/staged_store.jpg',
     description: 'General clothing store'
   },
   {
     id: 1,
     category: 'Residential',
     roomType: 'Living Room',
-    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464665351689076767/image_luxury_before.jpg?ex=69764b68&is=6974f9e8&hm=376598ee97706f9277118f3b0156fff17c594274c7712870e582c7971595cdb2&',
-    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664874071359672/image_luxury_after.png?ex=69764af6&is=6974f976&hm=77ca81a937136b91c249665ba0982f86dc9357c3214141ed0875a6fce7717916&',
+    beforeImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/image_luxury_before.jpg',
+    afterImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/image_luxury_after.jpg',
     description: 'Luxurious Living Room'
   },
   {
@@ -32,8 +32,8 @@ const projects: Project[] = [
     id: 4,
     category: 'Commercial',
     roomType: 'Clinic',
-    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464662101506396253/medical_waiting_before.png?ex=69764861&is=6974f6e1&hm=8ec8166ff7bc9e879b4c5409c8941fe6f60b27c415f4eb48237fde465ff91777&',
-    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464662337087733803/medical_waiting_after.jpeg?ex=69764899&is=6974f719&hm=8a785f54cf36df96a833ac842f9969af1994a5cccede2bf4fde4bfdf15569a41&',
+    beforeImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/medical_waiting_before.png',
+    afterImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/medical_waiting_after.jpeg',
     description: 'Medical Waiting Room'
   },
 ];
