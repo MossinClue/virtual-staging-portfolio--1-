@@ -23,8 +23,8 @@ const projects: Project[] = [
     id: 2,
     category: 'Residential',
     roomType: 'Bedroom',
-    beforeImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664012393414820/bedroom1_before_1.png?ex=69764a28&is=6974f8a8&hm=226551b6b9433a8ab2d0e9f108d9c8978f48c9a8a69b178d82c1518573dce903&',
-    afterImage: 'https://cdn.discordapp.com/attachments/1464662012067053703/1464664060082786587/bedroom1_after.png?ex=69764a34&is=6974f8b4&hm=dfa7b31318cc1194b4b4cf71b2578297f5b61c3308eb95c7f24f04b5f5dd6c41&',
+    beforeImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/bedroom1_before_1.png',
+    afterImage: 'https://raw.githubusercontent.com/MossinClue/image_hosting_mossin/refs/heads/main/bedroom1_after.png',
     description: 'Modern Bedroom'
   },
 
